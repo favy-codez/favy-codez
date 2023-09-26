@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects and Technical documentation**
 
-- 🤝 I’m looking for help with **Entry level roles**
+- 🤝 I’m looking for help with **Frontend entry-level roles**
 
 - 👨‍💻 All of my projects are available at [https://phavourcodesportfolio.vercel.app/](https://phavourcodesportfolio.vercel.app/)
 
