@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Godsfavour Ezeliora</h1>
+<h1 align="center">Hi 👋, I am Godsfavour Ezeliora</h1>
 <h3 align="center">I am a Data Analyst</h3>
 
 - 🌱 I’m currently learning at **Vephla**
