@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Data analysis projects and Hackathons**
 
-- 🤝 I’m looking for **Junior data analyst roles**
+- 🤝 I’m looking for **Data analyst roles**
 
 - 👨‍💻 All of my projects are available [here](https://www.datascienceportfol.io/GodsfavourEzeliora)
 
