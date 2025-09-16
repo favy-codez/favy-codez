@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ezeliorafavour81@gmail.com**
 
-- 📄 Check out my resume [here](https://docs.google.com/document/d/1_kLPCK3jQuV81i0aqt0TDUXVmiIyMJb80vta7vzMQRo/edit?usp=sharing)
+- 📄 Check out my resume [here](https://godsfavour-oluebubechukwu-ezeliora-resume.tiiny.site/)
 
 - 📝 I write articles on **https://medium.com/@ezeliorafavour**
 
